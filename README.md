@@ -1,1 +1,3 @@
-# complete-website-server-sajid-rgb
+This is an awesome website. Name of this website is repair house. you can find many electronics repair services here. you can book any services at any time. for booking you need to add your credit card no. to pay service charge. there are 2 options in our web site one is for user another for admin. User can see their order list and order status any time. In admin section admin can add any service, delete and modify the services. admin can change the order status also. Admin can make another admin by adding an email.
+
+Live Site: https://repair-house-70c7c.web.app/
